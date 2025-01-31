@@ -1,3 +1,6 @@
+# add open source data to your .gitignore file your data - this will be keep off of github
+spending_patterns_detailed.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# DO NOT ignore markdown and HTML files (Make sure they are NOT listed)
