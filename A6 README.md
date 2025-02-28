@@ -1,21 +1,12 @@
-# assignment3
-BABI 4005 assignment 3
+# Assignment 6 - Project Reflection
 
-# Baby Project - Data Analysis
+## Overview
+This project analyzes customer spending patterns using datasets from previous assignments.
 
-## 📌 Project Overview
-This project analyzes **spending habits** based on a dataset sourced from **Kaggle**. The dataset contains information about customer spending behavior, including **categories of purchases, payment methods, transaction amounts, and dates**. The goal of this analysis is to uncover **spending trends, category preferences, and monthly spending patterns**.
+## Decision on Merging Assignment 5
+I decided [to merge / not to merge] Assignment 5 because [explain your reason].
 
-## 🔗 Dataset Source
-- **Kaggle Dataset:** [Spending Habits](https://www.kaggle.com/datasets/ahmedmohamed2003/spending-habits)
-- **Dataset Author:** Ahmed Mohamed
-- **Description:** The dataset includes detailed transactions categorized by spending type, total amount spent, and payment methods.
-
-## Project Overview
-This project analyzes a dataset related to spending patterns. The dataset is not uploaded to GitHub as per project requirements.
-
-Business and Financial Implications
-This project can help businesses and financial analysts better understand consumer spending habits by:
-
-Detecting which products or services are most popular among customers.
-Understanding the role of payment methods in consumer spending behavior.
+## Lessons Learned
+- How to clean and manage large datasets.
+- How to use Git to track project changes.
+- Importance of organizing data correctly.
